@@ -14,6 +14,7 @@ set(ESP32ENCODER_INCS
 set(ESP32ENCODER_REQUIRES
     driver
     esp_timer
+	esp_system
 )
 
 # Private component requirement
